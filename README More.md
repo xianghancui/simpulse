@@ -30,8 +30,6 @@ Python2 is easy for installing even you have installed python3.
 
 However if you want to use python2 in the notebook of Jupyter, you need set up an virtual environment and py2 kernel.
 
-It is not a hard work, 
-
 ----
 
 ##### 2. Architecture
