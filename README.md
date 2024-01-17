@@ -20,4 +20,4 @@ scattered pulse. In the future I may add more features (e.g. pulsars and scintil
 cd visual_check
 ./plot-pulses.py
 ```
-==README MORE will be added later==
+==README MORE has been added==
